@@ -1,3 +1,2 @@
 user: mate
 pass: 123
-mail: mate@gmail.com
